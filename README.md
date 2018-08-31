@@ -34,7 +34,7 @@
 ## Install and basic usage
 
 ```bash
-$ npm i -s vue-drag-resize
+$ npm i -s omayhemo/vue-drag-resize
 ```
 
 
